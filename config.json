@@ -12,6 +12,6 @@
     "algolia": {
         "app_id": "8Q8H6ZF4HS",
         "api_key_search_only": "11e9a986df5819c6f6f677e904f3a6bf",
-        "index_name": "YOUR_INDEX_NAME"
+        "index_name": "game_NAME"
     }
 }
